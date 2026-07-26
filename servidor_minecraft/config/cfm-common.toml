@@ -1,0 +1,10 @@
+
+#Mail configuration settings
+[mail]
+	#The maximum amount of mail that can be in a player's mail queue.
+	#Range: > -2147483648
+	maxMailQueue = 20
+	#The interval in ticks for mail boxes to pull mail from the player's queue
+	#Range: > -2147483648
+	pullMailInterval = 20
+

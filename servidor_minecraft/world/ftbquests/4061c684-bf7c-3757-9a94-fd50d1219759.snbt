@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "4061c684bf7c37579a94fd50d1219759"
+	name: "kamushkarkir#4061c684"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

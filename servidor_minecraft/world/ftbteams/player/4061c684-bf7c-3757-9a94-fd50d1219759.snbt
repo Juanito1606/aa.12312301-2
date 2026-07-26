@@ -1,0 +1,17 @@
+{
+	id: "4061c684-bf7c-3757-9a94-fd50d1219759"
+	type: "player"
+	player_name: "kamushkarkir"
+	ranks: {
+		4061c684-bf7c-3757-9a94-fd50d1219759: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kamushkarkir"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
